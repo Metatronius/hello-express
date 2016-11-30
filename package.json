@@ -1,0 +1,25 @@
+{
+  "name": "hello_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Metatronius/hello-express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "@metatronius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metatronius/hello-express/issues"
+  },
+  "homepage": "https://github.com/Metatronius/hello-express#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
